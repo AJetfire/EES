@@ -51,7 +51,7 @@
 * Android手机，预装BLE蓝牙串口应用
 **测试流程**
 ~~~~~~~~~~~~~~~~~
-（板卡测试bin文件下载：https://pan.baidu.com/s/1n8wa8zFTRdLifM6wvngWvQ）
+（板卡测试bin文件下载：待更新）
 
 1. 板卡上电
 
